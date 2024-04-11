@@ -1,0 +1,6 @@
+opencv-python>=4.6.0
+imutils==0.5.3
+pytesseract==0.3.6
+scikit-image==0.17.2
+numpy==1.23.1
+PyQt5

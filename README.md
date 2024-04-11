@@ -1,9 +1,9 @@
 
 #### Change config folder save and TESSERACT_PATH in resources/config/config.yaml
 #### Download code from git
-  - `git clone https://github.com/minhquang081299/Plate_detection_CV_APP_UI.git`
+  - `git clone -b dev https://github.com/minhquang081299/Plate_Detection_CV_APP_UI.git`
 #### Install library
-  - `cd Plate_detection_CV_APP_UI` 
+  - `cd Plate_Detection_CV_APP_UI` 
   - `pip install -r requirements.txt`
   - Download and install [Tesseract-OCR](https://tesseract-ocr.github.io/tessdoc/) v5.0.0 (alpha)
 #### Run code
